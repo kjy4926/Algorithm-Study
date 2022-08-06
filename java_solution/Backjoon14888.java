@@ -1,4 +1,4 @@
-package solution;
+package java_solution;
 import java.util.Scanner;
 import java.lang.Math;
 
