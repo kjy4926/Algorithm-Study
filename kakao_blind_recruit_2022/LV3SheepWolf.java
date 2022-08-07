@@ -1,9 +1,8 @@
 package kakao_blind_recruit_2022;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
-public class LV3_sheepWolf {
+public class LV3SheepWolf {
 	private static ArrayList<ArrayList<Integer>> tree = new ArrayList<>();
 	private static int[] visited;
 	private static int max = 0;
